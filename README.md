@@ -17,7 +17,7 @@
 ### 🔧 Tools
 ![Arduino](https://img.shields.io/badge/Arduino-00979D.svg?style=for-the-badge&logo=arduino&logoColor=white)
 ![ESP32](https://img.shields.io/badge/ESP32-2C2C54.svg?style=for-the-badge&logo=esp32&logoColor=white)
-![ESP8266](https://img.shields.io/badge/ESP32-2C2C54.svg?style=for-the-badge&logo=esp32&logoColor=white)
+![ESP8266](https://img.shields.io/badge/ESP8266-2C2C54.svg?style=for-the-badge&logo=esp32&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=github&logoColor=white)
@@ -50,8 +50,8 @@
 ### 🌱 About Me
 - 💻 Passionate about **embedded systems, robotics, automation, and software development**
 - 🔧 Building projects with **Arduino, ESP8266/ESP32, and microcontrollers**
-- 🌱 Currently learning **Linux, some python libraries, and Iot development**
-- ⚡ Fun fact: I break things just to learn how to fix them 😅
+- 🌱 Currently learning **Linux, some python libraries, aand Iot development**
+- ⚡ Fun fact: I break things just to learn how they works 😅
 
 ---
 
