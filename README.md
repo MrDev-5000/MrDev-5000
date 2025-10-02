@@ -51,7 +51,7 @@
 - 💻 Passionate about **embedded systems, robotics, automation, and software development**
 - 🔧 Building projects with **Arduino, ESP8266/ESP32, and microcontrollers**
 - 🌱 Currently learning **Linux, some python libraries, DSA, and Iot development**
-- ⚡ Fun fact: I break things just to learn how they works 😅
+- ⚡ Fun fact: I break things just to learn how they work 😅
 
 ---
 
